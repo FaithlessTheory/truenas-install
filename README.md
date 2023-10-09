@@ -42,6 +42,7 @@ Adding TrueCharts is easy and requires you add several "trains" of software char
   - Repository: https://github.com/truecharts/catalog 
   - Preferred Trains: enterprise,stable and operators (type each one manually) 
   - Branch: main
+
 ![Screenshot of TrueNAS Scale Menu with Apps marked.](truenas_4.png)
 5. Click Save and wait for the App Catalog to update. This can take a minute to several minutes.
 

@@ -1,4 +1,4 @@
-# TrueNAS Scale & TrueCharts Installa and Setup Guide
+# TrueNAS Scale & TrueCharts Install and Setup Guide
 A step by step guide to installing TrueNAS Scale and TrueCharts. I wrote this guide to assist my students in installing TrueNAS Scale and TrueCharts. TrueCharts has great documentation, but this guide serves to simplify and strucure the install and setup process for those who have not done this type of work before.
 
 ## TrueNAS Scale

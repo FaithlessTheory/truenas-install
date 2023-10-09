@@ -1,5 +1,11 @@
 # TrueNAS Scale & TrueCharts Install and Setup Guide
-A step by step guide to installing TrueNAS Scale and TrueCharts. I wrote this guide to assist my students in installing TrueNAS Scale and TrueCharts. TrueCharts has great documentation, but this guide serves to simplify and strucure the install and setup process for those who have not done this type of work before.
+A step by step guide to installing TrueNAS Scale and TrueCharts. I wrote this guide to assist my students in installing TrueNAS Scale and TrueCharts. TrueCharts has great documentation, but this guide serves to simplify and structure the install and setup process for those who have not done this type of work before.
+
+### What is TrueNAS Scale?
+TrueNAS Scale is a Linux based NAS (Network Attached Storage) operating system by [IX Systems](https://www.ixsystems.com) which allows you to not only operate NAS in your environment but also run container applications within it. Containers in Scale are based on Kubernetes and Docker.
+
+### What is TrueCharts?
+TrueCharts is a open source project that works to easily operate containers based on kubernetes from several "charts", one of those being TrueNAS Scale. It is in active development and is generally very stable. It is not considered "Production Ready" but is stable if managed correctly and a excellent entry to containers and working with containerized software. [Project Scope](https://truecharts.org/manual/scope)
 
 ## TrueNAS Scale
 

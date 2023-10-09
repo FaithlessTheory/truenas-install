@@ -32,19 +32,17 @@ Finally, you can start using TrueNAS SCALE to manage your storage and data.
 Adding TrueCharts is easy and requires you add several "trains" of software charts.
 
 1. Select Apps on the left menu
-![Screenshot of TrueNAS Scale Menu with Apps marked.](truenas_1.png)
+  ![Screenshot of TrueNAS Scale Menu with Apps marked.](truenas_1.png)
 2. Click on Manage Catalogs
-![Screenshot of TrueNAS Scale Menu with Apps marked.](truenas_2.png)
-4. Click Add Catalog
-![Screenshot of TrueNAS Scale Menu with Apps marked.](truenas_3.png)
-6. Skip over the iXsystems notice, click Continue and enter the following information: 
+  ![Screenshot of TrueNAS Scale Menu with Apps marked.](truenas_2.png)
+3. Click Add Catalog
+  ![Screenshot of TrueNAS Scale Menu with Apps marked.](truenas_3.png)
+4. Skip over the iXsystems notice, click Continue and enter the following information: 
   - Name: truecharts 
   - Repository: https://github.com/truecharts/catalog 
   - Preferred Trains: enterprise,stable and operators (type each one manually) 
   - Branch: main
-
-![Screenshot of TrueNAS Scale Menu with Apps marked.](truenas_4.png)
-
+  ![Screenshot of TrueNAS Scale Menu with Apps marked.](truenas_4.png)
 5. Click Save and wait for the App Catalog to update. This can take a minute to several minutes.
 
 I have guides to the following applications i use here:

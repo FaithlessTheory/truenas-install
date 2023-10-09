@@ -29,5 +29,17 @@ Finally, you can start using TrueNAS SCALE to manage your storage and data.
 
 **TrueCharts**
 
+Adding TrueCharts is easy and requires you add several "trains" of software charts.
+
+Select Apps on the left menu
+Click on Manage Catalogs 
+Click Add Catalog
+Skip over the iXsystems notice, click Continue and enter the following information: 
+- Name: truecharts 
+- Repository: https://github.com/truecharts/catalog 
+- Preferred Trains: enterprise,stable and operators (type each one manually) 
+- Branch: main
+- Click Save and wait for the App Catalog to update. This can take a minute to several minutes.
+
 I have guides to the following applications i use here:
 - [Nextcloud](ruecharts.org/charts/stable/nextcloud/](https://truecharts.org/charts/stable/nextcloud/)https://truecharts.org/charts/stable/nextcloud/).

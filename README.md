@@ -48,5 +48,8 @@ Adding TrueCharts is easy and requires you add several "trains" of software char
 
 5. Click Save and wait for the App Catalog to update. This can take a minute to several minutes.
 
-I have guides to the following applications i use here:
+## Guides for installing Applications
+
+List of applications and guides i keep here.
+
 - [Nextcloud](ruecharts.org/charts/stable/nextcloud/](https://truecharts.org/charts/stable/nextcloud/)https://truecharts.org/charts/stable/nextcloud/).

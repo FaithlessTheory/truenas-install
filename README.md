@@ -1,7 +1,7 @@
 # truenas-install
-A step by step guide to installing TrueNAS Scale and TrueCharts.
+A step by step guide to installing TrueNAS Scale and TrueCharts. I wrote this guide to assist my students in installing TrueNAS Scale and TrueCharts. TrueCharts has great documentation, but this guide serves to simplify and strucure the install and setup process for those who have not done this type of work before.
 
-**TrueNAS Scale**
+## TrueNAS Scale
 
 1. Download the TrueNAS SCALE ISO image from the official website (https://www.truenas.com/download-truenas-scale/).
 
@@ -28,7 +28,7 @@ A step by step guide to installing TrueNAS Scale and TrueCharts.
 
 Finally, you can start using TrueNAS SCALE to manage your storage and data.
 
-**TrueCharts**
+## TrueCharts
 
 Adding TrueCharts is easy and requires you add several "trains" of software charts.
 
